@@ -1,0 +1,1 @@
+select CategoryName from Category ORDER BY CategoryName;
