@@ -1,6 +1,6 @@
 # SCUdatabase
 
-##This is the second assignment, which requires handwritten answers to each question in the PDF file.
+## This is the second assignment, which requires handwritten answers to each question in the PDF file.
 
 
 ## Student Name: 薛智涵
