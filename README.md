@@ -1,8 +1,7 @@
 # SCUdatabase
 
-This is repository for homeworks of database course in SCU.
+##This is the second assignment, which requires handwritten answers to each question in the PDF file.
 
-Each homework assignment is in its own branch.
 
 ## Student Name: 薛智涵
 
@@ -13,4 +12,6 @@ Each homework assignment is in its own branch.
 [Homework0: Matrix](https://github.com/milky245/SCUdatabase/tree/homework0_matrix)
 
 [Homework1: northwind](https://github.com/milky245/SCUdatabase/tree/Homework1_northwind)
+
+##This is the second assignment, which requires handwritten answers to each question in the PDF file.
 
