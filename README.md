@@ -15,3 +15,7 @@ Each homework assignment is in its own branch.
 [Homework1: northwind](https://github.com/milky245/SCUdatabase/tree/Homework1_northwind)
 
 [Homework2: Q&A](https://github.com/milky245/SCUdatabase/tree/homework2_Q%26A)
+
+[Homework_project_functions](https://github.com/milky245/SCUdatabase/tree/homework_project2_Tasks)
+
+[Homework_project_B Tree](https://github.com/milky245/SCUdatabase/tree/homework_project3_BplusTree)
